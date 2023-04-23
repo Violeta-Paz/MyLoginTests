@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_text">50dp</dimen>
+
+    <dimen name="margin_top_input_name">100dp</dimen>
+
+    <dimen name="margin_top_input_pass">10dp</dimen>
+
+    <dimen name="margin_top_button">146dp</dimen>
+</resources>
